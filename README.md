@@ -3,6 +3,8 @@
 ### Table des matières
 
 - [Préambule](#préambule)
+- [Objectifs](#objectifs)
+    - [Scénario](#scénario)
 - [Installation](#installation)
 - [Configuration](#configuration)
     - [Création du serveur `Tmux`](#création-du-serveur-tmux)
@@ -24,6 +26,16 @@ Si toutefois vous trouvez des erreurs, merci de les signaler à l'auteur via :
 * Twitter : [@edouard_lopez](https://twitter.com/edouard_lopez) ;
 * IRC : #giroll ou #labx ;
 * en venant discuter à [Giroll](http://giroll.org/), au [LabX](www.labx.fr/), au [Node](http://bxno.de/) ou autres.
+
+## Objectifs
+
+L'objectif de l'atelier et d'être capable d'utiliser `tmux` lors des prochains ateliers pour partager un _shell_ commun lors des démos.
+
+### Scénario
+
+Pour le moment tous les participants se connecte à la machine hôte en SSH, avec les même identifiants, et s'attachent à une session `tmux` existante. 
+
+Cela soulève des questions de **sécurité** que nous avons résolue par la **création d'un utilisateur dédié** aux ateliers.
 
 ## Installation
 
