@@ -2,6 +2,16 @@
 
 ### Table des matières
 
+- [Préambule](#préambule)
+- [Installation](#installation)
+- [Configuration](#configuration)
+    - [Création du serveur `Tmux`](#création-du-serveur-tmux)
+    - [Se connecter au serveur en `SSH`](#se-connecter-au-serveur-en-ssh)
+    - [Lister les sessions](#lister-les-sessions)
+    - [S'attacher à une session existante](#sattacher-à-une-session-existante)
+    - [Lister les utilisateurs connectés](#lister-les-utilisateurs-connectés)
+- [Todo](#todo)
+
 ## Préambule
 
 > Ce document s'adresse aux participants des [ateliers CLI organisés au LabX](https://www.labx.fr/) (_hackerspace_ de Bordeaux) à un publique **débutant**.
