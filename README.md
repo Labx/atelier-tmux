@@ -35,7 +35,7 @@ L'objectif de l'atelier et d'être capable d'utiliser `tmux` lors des prochains 
 
 Pour le moment tous les participants se connecte à la machine hôte en SSH, avec les même identifiants, et s'attachent à une session `tmux` existante. 
 
-Cela soulève des questions de **sécurité** que nous avons résolue par la **création d'un utilisateur dédié** aux ateliers.
+Cela soulève des questions de **sécurité** que nous avons « résolue » par la **création d'un utilisateur dédié** aux ateliers.
 
 ## Installation
 
